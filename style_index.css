@@ -1,0 +1,40 @@
+
+body { 
+  background: url(bg_index.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron {
+  padding: 3rem 4rem;
+  margin-bottom: 2rem;
+  background: rgba(232,232,232,0.9);
+  border-radius: .3rem;
+}
+
+.btn-primary.enter {
+	border-radius: 200px;
+    padding: 35px 50px;
+    font-size: 18px;
+    line-height: normal;
+
+}
+
+.btn-primary.enter:hover{
+	background-color: green;
+	border-color: green;
+}
+
+
+/*Footer*/
+#footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   background-color: lightgrey;
+   color: white;
+   text-align: center;
+}
+
