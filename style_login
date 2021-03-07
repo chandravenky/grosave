@@ -1,0 +1,14 @@
+
+
+
+
+/*Footer*/
+#footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   background-color: lightgrey;
+   color: white;
+   text-align: center;
+}
+
